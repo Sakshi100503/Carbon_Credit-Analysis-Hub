@@ -32,7 +32,7 @@ The frontend and backend are decoupled and communicate exclusively via a RESTful
 
 ### Demonstration -
 1.Dasboard with interactive market Trading :
-<img width="718" height="597" alt="image" src="https://github.com/user-attachments/assets/4cb9c812-e107-42f2-b034-0d146c9668f4" />
+<img width="717" height="612" alt="image" src="https://github.com/user-attachments/assets/c8d94646-6b6b-4d4a-834c-0f7748a5bebb" />
 
 2. AI-CarbonCredit Assistant :
 <img width="711" height="595" alt="image" src="https://github.com/user-attachments/assets/b7959bfc-4a5a-4885-a423-dd4436cc1785" />
